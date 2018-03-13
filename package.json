@@ -21,8 +21,8 @@
   ],
   "dependencies": {
     "cli-color-keywords": "0.0.1",
-    "handlebars": "^3.0.3",
-    "lodash": "^3.10.1"
+    "handlebars": "^4.0.11",
+    "lodash": "^4.17.5"
   },
   "devDependencies": {
     "mocha": "*",
