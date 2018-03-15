@@ -7,7 +7,7 @@
   "author": {
     "name": "Nate Cavanaugh",
     "email": "nate@shift22.com",
-    "url": "alterform.com"
+    "url": "http://alterform.com"
   },
   "engines": {
     "node": ">=0.10.0"
