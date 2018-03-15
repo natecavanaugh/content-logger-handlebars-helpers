@@ -10,7 +10,7 @@
     "url": "http://alterform.com"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=6.x"
   },
   "scripts": {
     "test": "gulp test-coverage",
